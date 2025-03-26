@@ -1,1 +1,6 @@
 joqhnasndn
+
+git clone <URL>
+git add 
+git commit -m "commit"
+git push
